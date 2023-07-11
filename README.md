@@ -58,23 +58,19 @@
 
 
 -----
-<div style="display: flex ; justify-content: space-around;">
 
-<span>
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debraj-das&show_icons=true&theme=tokyonight)
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debraj-das&show_icons=true&theme=tokyonight)
+</div>
 
-</span>
+----
 
-<span>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-das&layout=pie&theme=tokyonight)](https://github.com/debraj-das/github-readme-stats)
 
-</span>
-
 </div>
-
-
 
 -----
 
