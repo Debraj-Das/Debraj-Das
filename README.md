@@ -61,22 +61,20 @@
 
 <div align="center">
 
-![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debraj-das&show_icons=true&theme=tokyonight)
-</div>
+![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=debraj-das&show_icons=true)
 
-----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-das&layout=pie)](https://github.com/debraj-das/github-readme-stats)
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debraj-das&layout=pie&theme=tokyonight)](https://github.com/debraj-das/github-readme-stats)
+[![Leetcode Profile](https://leetcode.card.workers.dev/?username=Debraj_01&style=flat&font=baloo)](https://leetcode.com/Debraj_01/)
 
 </div>
+
 
 -----
 
 <h3  style="color: #44AEFB; margin: 20px 0px ; font-size:20px">Connect with me :</h3>
 
-<div style="display: flex ; justify-content: space-around;" >
+<div align="center" >
 <a href="www.linkedin.com/in/debraj-das-94587025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debraj das" height="40" width="60" /></a>
 <a href="https://github.com/Debraj-Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="debraj-das" height="40" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCMA1RVGKBjkQOAXTnRDNPqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="principles of learning" height="40" width="60" /></a>
