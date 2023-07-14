@@ -31,6 +31,10 @@
 
 </div>  
 
+----------
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Debraj-Das&theme=github-compact)](https://github.com/Debraj-Das/github-readme-activity-graph)
+
 -----
 
 <h3 align="left">Languages and Tools:</h3>
