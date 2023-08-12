@@ -8,12 +8,6 @@
 - 🤝 I’m looking for help with **Competitive Programming**
 - 👨‍💻 All of my projects are available at&nbsp; [Projects](https://github.com/Debraj-Das?tab=repositories)
 - 💬 Ask me about anything [here](https://github.com/Debraj-Das/Debraj-Das/issues)
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
-  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
-</picture>
 
 -----
 
