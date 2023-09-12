@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m looking for help with **Competitive Programming**
+- 🤝 I’m looking for help with [Competitive Programming](https://github.com/Debraj-Das/CP_codebase_repository)
 - 👨‍💻 All of my projects are available at&nbsp; [Projects](https://github.com/Debraj-Das?tab=repositories)
 - 💬 Ask me about anything [here](https://github.com/Debraj-Das/Debraj-Das/issues)
 
